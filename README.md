@@ -28,5 +28,6 @@
 
 - Enjoy it!! o/
 
-<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/71569463/115647560-60884880-a2fa-11eb-85cc-6acc9e7a0db2.png)">
+<img align="right" width="400" height="400" src="![image](https://user-images.githubusercontent.com/71569463/115648410-c6290480-a2fb-11eb-91cf-a19b1aed1e36.png)
+">
 
