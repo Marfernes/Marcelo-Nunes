@@ -28,6 +28,5 @@
 
 - Enjoy it!! o/
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<img align="right" width="400" height="400" src="C:\Users\LENOVO\OneDrive\Imagens\Saved Pictures">
+<img align="right" width="400" height="400" src="C:\Users\LENOVO\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2021-04-21 at 11.27.14 PM">
 
