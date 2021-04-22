@@ -28,5 +28,5 @@
 
 - Enjoy it!! o/
 
-<img align="right" width="400" height="400" src="C:\Users\LENOVO\OneDrive\Imagens\Saved Pictures\WhatsApp Image 2021-04-21 at 11.27.14 PM">
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/71569463/115647560-60884880-a2fa-11eb-85cc-6acc9e7a0db2.png)">
 
