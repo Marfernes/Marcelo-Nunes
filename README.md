@@ -28,6 +28,6 @@
 
 - Enjoy it!! o/
 
-<img align="right" width="400" height="400" src="https://th.bing.com/th/id/OIP.cn2B5vFHGnXBEPoGY0Iv7QHaFx?pid=ImgDet&rs=1">
+<img align="left" width="400" height="400" src="https://th.bing.com/th/id/OIP.cn2B5vFHGnXBEPoGY0Iv7QHaFx?pid=ImgDet&rs=1">
 
 
