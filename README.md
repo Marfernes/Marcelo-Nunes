@@ -3,7 +3,7 @@ Olá, Seja bem-vindo(a) ao perfil profissional do Graduado em Sistemas de Inform
 DESENVOLVEDOR DE SOFTWARES
 <br>
 PRINCIPAIS FERRAMENTAS  : 
-AspN et Core |
+ASP NET CORE |
 .NET | 
 MVC |
 JAVASCRIPT |
